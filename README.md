@@ -15,4 +15,3 @@ materializecss official documentation
 ## Contact info 
 
 m23.cullen@gmail.com
-3Mustard.pythonanywhere.com
